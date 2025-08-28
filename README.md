@@ -50,3 +50,14 @@ mood-tracker/
 ├── InvalidMoodException.java # Custom exception for invalid/duplicate moods
 ├── MoodTracker.java          # Main driver class with menu and logic
 └── README.md                 # Project documentation
+```
+---
+
+## 🔮 Future Improvements
+
+- Add a GUI interface for easier mood logging and visualization
+- Support export to CSV or JSON for sharing or backup
+- Implement search by mood type or keywords in notes
+- Add password-protected user accounts for multiple users
+- Include mood statistics and trends (e.g., weekly/monthly charts)
+- Implement unit tests for better code reliability
